@@ -1,0 +1,12 @@
+venv
+*.pyc
+.idea
+.DS_Store
+*.output
+*.swp
+*.log
+*.log.20*
+*.pid
+*.so
+*.ipynb
+*.csv
